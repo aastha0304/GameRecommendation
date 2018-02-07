@@ -1,7 +1,5 @@
 package game_recommendation
 
-import org.apache.spark.sql.expressions.UserDefinedAggregateFunction
-
 /**
   * Created by nik on 26/1/18.
   */
