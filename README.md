@@ -1,7 +1,7 @@
-#Game Recommendation
+# Game Recommendation
 This is a Spark Sql based code in Scala to recommend top 6 games per user based on some pretty complicated relationship (;))
 
-##How to run
+## How to run
 The package include fat jar plugin to straightaway include with spark-submit command.
 The fat jar is built using 
 ```$xslt
